@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, I'm Everett
 
-<!--
-**everettpotter/everettpotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Computer Science @ The University of Alabama**  
+*Cybersecurity Concentration – Finance Minor – Accelerated MBA Candidate*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦌 About Me
+
+I'm a driven computer science student with a concentration in cybersecurity and a strong foundation in finance. I'm currently pursuing an accelerated MBA to further bridge the gap between technical solutions and business strategy.
+
+My goal is to apply these skills in impactful ways by building efficient, secure, and scalable systems. I'm actively preparing for internships at top-tier tech companies with a focus on full-stack development and AI/ML.
+
+Outside of tech, I enjoy training for Ironman and ultramarathon events, lifting weights, and reading. These passions fuel both my discipline and personal growth.
+
+---
+
+## 👾 Technical Skills
+
+Languages: Python, C++, C  
+Web: HTML, CSS  
+Tools: Git, VSCode, SQL  
+Learning: JavaScript, Flask, Docker
+
+---
+
+## 🚀 Projects
+
+- Budget Tracker (in progress)
+
+- Macro Tracker (in progress)
+
+*(Actively building and will update here!)*
+
+---
+
+## 📚 Currently Reading 
+
+- *Morning Star* by Pierce Brown *(Book #3 of the Red Rising Series)*
+- *Project Hail Mary* by Andy Weir
+- *One Year After* by William R. Forstchen *(Book #2 of the After Series)*
+
+---
+
+## ☎️ Contact
+
+- Linkedin (insert linkedin link)
+- GitHub (insert GitHub link)
+- Email: everettpotter@protonmail.com
