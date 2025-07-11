@@ -28,7 +28,7 @@ Learning: JavaScript, Flask, Docker
 
 - Budget Tracker (in progress)
 
-- Macro Tracker (in progress)
+- Macro Tracker [github.com/everettpotter/MacroTracker](https://github.com/everettpotter/MacroTracker)
 
 *(Actively building and will update here!)*
 
