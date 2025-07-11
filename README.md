@@ -44,6 +44,6 @@ Learning: JavaScript, Flask, Docker
 
 ## ☎️ Contact
 
-- Linkedin (insert linkedin link)
-- GitHub (insert GitHub link)
+- Linkedin [linkedin.com/in/everettpotter](https://www.linkedin.com/in/everettpotter)
+- GitHub [github.com/everettpotter](https://github.com/everettpotter)
 - Email: everettpotter@protonmail.com
