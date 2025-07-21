@@ -26,7 +26,7 @@ Learning: JavaScript, Flask, Docker
 
 ## 🚀 Projects
 
-- Budget Tracker (in progress)
+- CourtVision: An AI-powered NBA roster optimization tool that uses machine learning and real-world salary cap constraints to assemble the most efficient teams (in progress) 
 
 - [Macro Tracker](https://github.com/everettpotter/MacroTracker)
 
